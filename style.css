@@ -1,0 +1,23 @@
+body{
+    height: 80vh;
+    border: 1px red solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+div{
+    height: 120px;
+    width: 120px;
+    background-color: royalblue;
+    border-radius: 50%;
+}
